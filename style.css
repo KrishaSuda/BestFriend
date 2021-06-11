@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    top: 500px;
+}
+
+#Home {
+    position: absolute;
+    height: 500px;
+    color: white;
+    left: 0px;
+    right: 0px;
+    top: 55px;
+    bottom: 0px;
+    background: linear-gradient(#e29578 25%, #ffddd2 100%);
+    width: 100%;
+    z-index: 5;
+    text-align: center;
+}
+
+.Face {
+    border-radius: 75px;
+    width: 200px;
+    padding-top: 20px;
+}
+
+#About {
+    color: dimgrey;
+    padding-top: 475px;
+    text-align: center;
+}
+
+.line {
+    background-color: dimgrey;
+    width: 80px;
+    height: 4px;
+    margin: 8px auto;
+    text-align: center;
+}
+
+#About p {
+    color: #e29578;
+    text-shadow: 2px 2px #ffddd2;
+}
+
+#Photos {
+    color: dimgrey;
+    text-align: center;
+}
+
+.Images1 {
+    width: 800px;
+    margin-bottom: 10px;
+}
+
+.Images3 {
+    width: 325px;
+    margin-bottom: 10px;
+}
+
+.Images4 {
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+.Images5 {
+    width: 350px;
+    margin-bottom: 10px;
+}
+
+.Images6 {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#Special {
+    color: dimgrey;
+    text-align: center;
+}
+
+.img-responsive {
+    width: 500px;
+}
+
+#myCarousel {
+    background: linear-gradient(#e29578 25%, #ffddd2 100%);
+}
